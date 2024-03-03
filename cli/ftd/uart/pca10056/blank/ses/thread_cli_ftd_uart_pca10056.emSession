@@ -1,0 +1,60 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056;Application"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056;Board Definition"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056;None"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056;nRF_Drivers"/>
+  <ProjectSessionItem path="thread_cli_ftd_uart_pca10056;thread_cli_ftd_uart_pca10056;nRF_Log"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="106" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../main.c" selected="0" top="100" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="58" y="130" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../integration/nrfx/legacy/nrf_drv_saadc.h" selected="0" top="110" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="68" y="51" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/drivers/src/nrfx_saadc.c" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="39" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="nrfx_atomic.c" selected="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/soc/nrfx_atomic_internal.h" selected="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/drivers/nrfx_common.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../../../Library/SEGGER/SEGGER Embedded Studio/v3/packages/libraries/libcxx/include/__config" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="53" y="339" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h" selected="0" top="300" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="208" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../integration/nrfx/nrfx_glue.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="16" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/soc/nrfx_atomic.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/nrfx.h" selected="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="36" y="231" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/hal/nrf_saadc.h" selected="0" top="206" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../../modules/nrfx/drivers/include/nrfx_saadc.h" selected="1" top="42" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="thread_cli_ftd_uart_pca10056" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/kk/Downloads/nrf5_sdk_for_thread_and_zigbee_v4.2.0_af27f76/examples/thread/cli/ftd/uart/pca10056/blank/ses" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
